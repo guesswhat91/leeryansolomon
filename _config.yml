@@ -22,8 +22,8 @@ title: LeeRyan Solomon
 email: leeryansolomon.com
 description: >- # this means to ignore newlines until "baseurl:"
   Trying to explain complex problems that my simple mind could not grasp at first. :bowtie:
-baseurl: "/leeryansolomon" # the subpath of your site, e.g. /blog
-url: "https://guesswhat91.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
