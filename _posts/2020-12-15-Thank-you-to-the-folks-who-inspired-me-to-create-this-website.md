@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Appreciation"
+title:  "Thank you to the folks who inspired me to create this website"
 date:   2020-12-15
 ---
 
-Thank you to the people who inspired me to create this website.  
+Thanking the people who inspired me to create this website.  
